@@ -1,5 +1,5 @@
-# Karel-Assignment-
-Karel Assignment‏ 
+# Karel-Robot -
+Karel Robot‏ 
 
 ##Divide a given map into 4 equal chambers – take into consideration the special cases such as small maps that can’t be divided into 4 chambers equally and divide them into the maximum possible number of equal chambers (1, 2, or 3)
 
